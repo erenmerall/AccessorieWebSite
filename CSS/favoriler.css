@@ -1,0 +1,6 @@
+.favoriler:not(nav) {
+    text-align: center;
+    color: #fcf0c8;
+    font-size: large;
+}
+

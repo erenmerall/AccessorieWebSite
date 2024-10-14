@@ -1,0 +1,53 @@
+.baslik {
+  color: #c3c1e3;
+}
+
+.ara_kargo_toplam {
+  color: #bab8ac;
+}
+
+.full_toplam {
+  color: #e6e9ea;
+}
+
+input{
+  height: 25px;
+  background-color: #e6e9ea;
+  border: 0px;
+}
+
+select {
+  height: 25px;
+  width: 165px;
+  background-color: #e6e9ea;
+}
+
+input::-moz-placeholder {
+  color: black;
+  opacity: 1;
+}
+
+input:-ms-input-placeholder {
+  color: black;
+}
+
+input::-webkit-input-placeholder {
+  color: black;
+}
+
+.yazi {
+  color: #bbbbbb;
+}
+
+
+.odeme_div {
+  height: 120px;
+  width: 500px;
+  /* background-color: #363636; */
+  border-radius: 5px;
+}
+
+.odeme{
+  color: #bbbbbb;
+}
+
